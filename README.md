@@ -1,4 +1,4 @@
- Bootcamp git project
+ Bootcamp DevOps - Repositori latihan
  sesi git 1
  ##tujuan
 Belajar git workflow lokal.
