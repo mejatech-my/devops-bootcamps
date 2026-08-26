@@ -1,4 +1,7 @@
- Bootcamp DevOps - Repositori latihan
+<<<<<<< HEAD
+======
+ project bootcamp git 2026 - Repositori latihan
+>>>>>>> fix-tajuk
  sesi git 1
  ##tujuan
 Belajar git workflow lokal.
