@@ -1,4 +1,4 @@
- Bootcamp git project
+ project bootcamp git 2026
  sesi git 1
  ##tujuan
 Belajar git workflow lokal.
