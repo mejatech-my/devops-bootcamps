@@ -12,3 +12,4 @@ Belajar git workflow lokal
 # tambah di hujung fail:
 # ## senarai arahan
 # -git init / git add/ git commit## Tarikh
+## Diubah dari PC
