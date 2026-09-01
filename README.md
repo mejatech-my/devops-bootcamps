@@ -13,3 +13,4 @@ Belajar git workflow lokal
 # ## senarai arahan
 # -git init / git add/ git commit## Tarikh
 ## Diubah dari PC
+## Diubah dari salinan kedua
